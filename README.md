@@ -11,10 +11,8 @@
 python -m streamlit run .\covid19Mexico.py
 ```
 
-# Documentación del Dashboard COVID-19
 
-```markdown
-# Dashboard COVID-19 - Documentación Técnica
+# Documentación
 
 Este documento explica en detalle el código de un dashboard interactivo para visualizar datos de COVID-19, construido con Streamlit y conectado a una base de datos MySQL.
 
